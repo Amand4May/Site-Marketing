@@ -93,3 +93,14 @@ header{
     justify-content: center;
     align-items: center;
 }
+
+#troll{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 300;
+}
+
+.imagem{
+    margin-top: 10rem;
+    margin-left: 10rem;
+}
